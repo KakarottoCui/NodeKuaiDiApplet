@@ -1,0 +1,22 @@
+/* pages/index/pickupSucc/pickupSucc.wxss */
+.pickSucc{
+  width: 600rpx;
+  margin: 110rpx auto;
+  font-size: 40rpx;
+}
+.depSuccess view{
+  margin: 10rpx 0;
+}
+.depSuccess text{
+  margin-left:40rpx;
+}
+
+.enter-button,.quit-button {
+  width: 300rpx;
+  height: 100rpx;
+  margin: 60rpx auto 0 auto;
+  line-height: 100rpx;
+}
+.enter-button{
+  margin-top: 140rpx;
+}
